@@ -1,0 +1,1 @@
+# Core Dependencies\nrequests>=2.31.0\nPyYAML>=6.0\njsonschema>=4.17.0\n\n# Data Processing\npandas>=2.0.0\nnumpy>=1.24.0\n\n# Visualization (optional)\nmatplotlib>=3.7.0\nseaborn>=0.12.0\n\n# Development\npytest>=7.4.0\nblack>=23.0.0\nflake8>=6.0.0\n\n# Production\ngunicorn>=21.0.0\nredis>=4.6.0\n
